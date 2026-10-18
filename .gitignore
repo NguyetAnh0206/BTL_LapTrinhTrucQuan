@@ -1,0 +1,15 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.cache
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
